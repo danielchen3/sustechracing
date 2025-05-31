@@ -1,0 +1,39 @@
+{
+  "Tracks": {
+    "CountryTrack": {
+      "Name": "CountryTrack",
+      "Intro": "xxxx",
+      "Difficulty": "Medium",
+      "Trap": "Spikes",
+      "Award": "Gold"
+    },
+    "MountainTrack": {
+      "Name": "MountainTrack",
+      "Intro": "xxxx",
+      "Difficulty": "Hard",
+      "Trap": "Lava",
+      "Award": "Silver"
+    },
+    "OvalTrack": {
+      "Name": "OvalTrack",
+      "Intro": "xxxx",
+      "Difficulty": "Easy",
+      "Trap": "Water",
+      "Award": "Bronze"
+    },
+    "WindingTrack": {
+      "Name": "WindingTrack",
+      "Intro": "xxxx",
+      "Difficulty": "Medium",
+      "Trap": "Pitfalls",
+      "Award": "Diamond"
+    },
+    "OvalTrack_Addon": {
+      "Name": "OvalTrack_Addon",
+      "Intro": "xxxx",
+      "Difficulty": "Hard",
+      "Trap": "Fire",
+      "Award": "Platinum"
+    }
+  }
+}
